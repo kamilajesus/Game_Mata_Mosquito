@@ -4,13 +4,12 @@ html{
 
 }
 
-
 body{
     background-image: url(imagens/bg.jpg);
-    background-repeat: no-repeat;
-    background-size: 100%;
+    background-repeat: repeat-x;
+    background-size: 300%;
+    
 }
-
 
 .mosquito1{
     width: 50px;
